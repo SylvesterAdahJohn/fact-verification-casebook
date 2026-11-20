@@ -25,5 +25,5 @@ All cases use public information and are written in my own words. No client or c
 
 ## Author
 
-Adah Sylvester John, AI Research Evaluator
+John Adah Sylvester, AI Research Evaluator
 [LinkedIn](https://www.linkedin.com/in/john-sylvester-54b758444)
